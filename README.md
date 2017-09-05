@@ -23,7 +23,7 @@ So we are mixing 3 open source projects, Eclipse Che workspace server, Eclipse b
 
 Apache Guacamole is a service which allows remotely viewing applications in web browsers.
 
-We build upon an existing proof of concept which integrates the eclipse based JBoss Developer Studio with Apache Guacamole and Openshift by Rich Lucente at Redhat (https://github.com/rlucente-se-jboss/jbds-via-html5), and we expand on that to add the concept of cloud managed workspace that comes from eclipse Che.
+We build upon an existing proof of concept by Rich Lucente at Redhat  which integrates the eclipse based JBoss Developer Studio with Apache Guacamole and Openshift (https://github.com/rlucente-se-jboss/jbds-via-html5), and we expand on that to add the concept of cloud managed workspace that comes from eclipse Che.
 
 As an example eclipse based, desktop based, RCP application we are using Obeo designer which is an a compact packaging of the components required to run Eclipse Sirius graphical modelling IDE.
 
