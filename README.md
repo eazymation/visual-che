@@ -19,7 +19,8 @@ This project aims to allow us to bring existing stable visual tooling to the wor
 ## The Tech
 We aim in this project to allow eclipse based IDE’s (specifically Rich Client Platform applications) to make use of eclipse Che as a Workspace server to provide cloud based collaboration and management of tooling, while using Apache Guacamole to make these traditionally desktop applications easy to use in a web browser with zero installation.
 
-So we are mixing 3 open source projects, Eclipse Che workspace server, Eclipse based IDE’s, and Apache Guacamole 
+So we are mixing 3 open source projects, Eclipse Che workspace server, Eclipse based IDE’s, and Apache Guacamole.
+
 Apache Guacamole is a service which allows remotely viewing applications in web browsers.
 
 We build upon an existing proof of concept which integrates the eclipse based JBoss Developer Studio with Apache Guacamole and Openshift by Rich Lucente at Redhat (https://github.com/rlucente-se-jboss/jbds-via-html5), and we expand on that to add the concept of cloud managed workspace that comes from eclipse Che.
