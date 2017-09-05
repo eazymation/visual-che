@@ -4,7 +4,7 @@
 This project aims to enable existing desktop based visual tooling written with the Eclipse Rich Client Platform to be usable from a web browser with zero installation and managed as part of an Eclipse Che workspace, bringing the advantages of portable, containerised, collaborative , zero deployment , cloud based workspaces to existing tried and tested applications traditionaly run on the desktop.
 
 ## Background
-Software Development is changing.
+Software Development is changing. 
 
 Since a while now IDE’s are no longer just for coding by programmers in languages with high learning curves. Domain specific Languages and visual tooling have developed to lower the barrier for domain experts who are not programmers to express their expertise and ideas effectively using technology.
 
