@@ -1,4 +1,4 @@
-# Visual Tooling on the web With Che workspaces
+# Visual Tooling on the Web With Che Workspaces
 
 ## Overview
 This project aims to enable existing desktop based visual tooling written with the Eclipse Rich Client Platform to be usable from a web browser with zero installation and managed as part of an Eclipse Che workspace, bringing the advantages of portable, containerised, collaborative , zero deployment , cloud based workspaces to existing tried and tested applications traditionaly run on the desktop.
