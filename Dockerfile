@@ -37,8 +37,7 @@ RUN    mkdir -p /usr/share/sirius \
     && echo "/usr/share/sirius/ObeoDesigner-Community/obeodesigner -nosplash -data ${HOME}/workspace &" \
              >> /etc/xdg/openbox/autostart
 
-# Add the installation configuration file
-ADD resources/InstallConfigRecord.xml /usr/share/sirius/
+# Add the update site
 ADD resources/family_updatesite /usr/share/sirius/family_updatesite
 
 # Install Sirius.  The needed files will be downloaded
