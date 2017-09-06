@@ -44,7 +44,7 @@ Component 1: A docker file to create Obeo Designer in a container, with a VNC cl
 
 Component 2: A recipe for the Obeo Designer container  as a Che stack.
 
-Component 3: Apache Guacamole Client. 
+Component 3: Apache Guacamole Web Application
 
 Component 4: Apache Guacamole daemon.
 
