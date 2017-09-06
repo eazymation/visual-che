@@ -48,7 +48,22 @@ Component 3: Apache Guacamole Client.
 
 Component 4: Apache Guacamole daemon.
 
+## Openshift integration
 
+A lot of work is currently being done to make Che work well with Openshift (Redhat's Kubernetes based PAAS). Rich Lucente's work shows that gaucamole, eclipse RCP applications and openshift can work well together, network end points are easy to find for the eclipse applications container's , and Gaucamole runs well in a openshift/kubernetes pod.
+Openshift requires (very sensibly) that containers do not run as priveleged users, Rich Lucente has provided a wrapper for the Guacamole web application running in a docker contianer as a non priveleged user suitable for openshift at rlucentesejboss/guacamole .
+
+## Setup
+
+To set up the demo application using Che, Obeo designer, and Gaucamole, is described here : 
+
+https://github.com/neilmackenzie/visual-che/edit/master/setup.md
+
+## Impacts of Che workspaces on collaborative modelling
+
+One common application of visual tooling  is modelling. Modelling is ussualy done by domian experts, who may be less familiar with technical installation and upkeep of modelling software, and alos less familiar with concepts such as git branches, merging and conflict resolution.  Can Che workspaces make collaborating on models easier, we explore the topic here:
+
+https://github.com/neilmackenzie/visual-che/edit/master/collaborative_modelling_with_che.md
 
 ## Current status
 
