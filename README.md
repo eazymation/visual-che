@@ -55,7 +55,7 @@ Openshift requires (very sensibly) that containers do not run as priveleged user
 
 ## Setup
 
-To set up the demo application using Che, Obeo designer, and Gaucamole, is described here : 
+To process to set up the demo application using Che, Obeo designer, and Gaucamole, is described here : 
 
 https://github.com/neilmackenzie/visual-che/blob/master/setup.md
 
