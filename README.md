@@ -61,7 +61,7 @@ https://github.com/neilmackenzie/visual-che/edit/master/setup.md
 
 ## Impacts of Che workspaces on collaborative modelling
 
-One common application of visual tooling  is modelling. Modelling is ussualy done by domian experts, who may be less familiar with technical installation and upkeep of modelling software, and alos less familiar with concepts such as git branches, merging and conflict resolution.  Can Che workspaces make collaborating on models easier, we explore the topic here:
+One common application of visual tooling  is modelling. Modelling is ussualy done by domian experts, who may be less familiar with technical installation and upkeep of modelling software, and also less familiar with concepts such as git branches, merging and conflict resolution.  Can Che workspaces make collaborating on models easier, we explore the topic here:
 
 https://github.com/neilmackenzie/visual-che/edit/master/collaborative_modelling_with_che.md
 
